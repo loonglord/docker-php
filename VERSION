@@ -1,2 +1,2 @@
-digest=ghcr.io/loonglord/php@sha256:eda3bc96ddaeb8f6e49fcfd85dfd9e0aaa0cd81df13cb021138106f792ee0599
+digest=ghcr.io/loonglord/php@sha256:bacc55111de4d62ddf7bb4fe20207d1a0386598ff1e06473a937be08c68b4da6
 php_version=8.5.3
